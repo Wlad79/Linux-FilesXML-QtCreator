@@ -1,0 +1,23 @@
+<Wartungen ZusatzArbeiten="normale Nutzungsbedingungen">
+ <Steuerriemen_Austausch>
+  <IntervalKilometer Einstieg="nach Kauf">100000</IntervalKilometer>
+  <IntervalJahre Einstieg="nach Kauf">6</IntervalJahre>
+  <IntervalKilometer Haupt="nach Einstieg anschliessend">200000</IntervalKilometer>
+  <IntervalJahreMin Haupt="nach Einstieg anschliessend">12</IntervalJahreMin>
+ </Steuerriemen_Austausch>
+ <MotorsteuerungsSatz_Austausch>
+  <IntervalKilometer Einstieg="nach Kauf">200000</IntervalKilometer>
+  <IntervalJahre Einstieg="nach Kauf">6</IntervalJahre>
+  <IntervalKilometer Haupt="nach Einstieg anschliessend">200000</IntervalKilometer>
+  <IntervalJahreMin Haupt="nach Einstieg anschliessend">0</IntervalJahreMin>
+ </MotorsteuerungsSatz_Austausch>
+ <Kühlflüssigkeit_Kontrolle PH-Wert="verbessern">
+  <IntervalKilometer Einstieg="nach Kauf">125000</IntervalKilometer>
+  <IntervalJahre Einstieg="nach Kauf">4</IntervalJahre>
+  <IntervalKilometer Haupt="nach Einstieg anschliessend">25000</IntervalKilometer>
+  <IntervalJahreMin Haupt="nach Einstieg anschliessend">1</IntervalJahreMin>
+ </Kühlflüssigkeit_Kontrolle>
+ <Bremsflüssigkeit_Wechsel Medium="richtig">
+  <IntervalJahreMin Haupt="immer">2</IntervalJahreMin>
+ </Bremsflüssigkeit_Wechsel>
+</Wartungen>
